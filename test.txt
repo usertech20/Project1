@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a different line.
+=======
+this is a sample of code.
+>>>>>>> b38acf4d99233aab7fb20d2c8808da18a318fd77
